@@ -23,5 +23,5 @@ A lo largo de mis estudios autodidactas y en bootcamps he adquirido conocimiento
 <li> CSS</li>
 <br>
 <a href='https://www.linkedin.com/in/gulliano-jaimes/'> LinkedIn </a> <br>
-Correo: gullianomjaimes@gmail.com
+Correo: <a>gullianomjaimes@gmail.com </a>
 
