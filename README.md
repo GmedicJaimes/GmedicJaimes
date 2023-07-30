@@ -21,7 +21,7 @@ A lo largo de mis estudios autodidactas y en bootcamps he adquirido conocimiento
 <li> Git</li>
 <li> HTML</li>
 <li> CSS</li>
-
-<a href='https://www.linkedin.com/in/gulliano-jaimes/'> LinkedIn </a>
+<br>
+<a href='https://www.linkedin.com/in/gulliano-jaimes/'> LinkedIn </a> <br>
 Correo: gullianomjaimes@gmail.com
 
