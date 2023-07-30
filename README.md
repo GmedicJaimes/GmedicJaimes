@@ -1,4 +1,4 @@
-# Hola! Mi nombre es Gulliano Medic 👋
+# Hola! Soy Gulliano Jaimes 👋
 
 <h3>¿Quien Soy?</h3>
 
