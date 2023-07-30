@@ -8,7 +8,7 @@ Aunque aún no tengo experiencia profesional en el rubro, mi juventud y entusias
 
 Mi objetivo es obtener una posición como Fullstack Developer en una empresa innovadora que me permita aplicar mis habilidades técnicas, aprender de profesionales experimentados y contribuir al desarrollo de proyectos significativos. Estoy emocionado de formar parte de un equipo colaborativo donde pueda seguir desarrollándome y creciendo como profesional.📌
 
-<h3>Tecnologias que uso: </h3>
+<h3>Tecnologias que uso: </h3> 
 
 A lo largo de mis estudios autodidactas y en bootcamps he adquirido conocimiento y obtenido experiencia realizando proyectos para despegar. Por lo cual las principales tecnologías que manejo son: 
 
