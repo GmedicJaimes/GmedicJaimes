@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1 align='center'> Hola! Soy Gulliano Jaimes 👋 </h1>
+  <h1 align='center'> Hola! Soy <span color='#1684EB'> Gulliano Jaimes </span> 👋 </h1>
 </div>
 
 <h3>¿Quien Soy?</h3>
