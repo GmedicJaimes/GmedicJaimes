@@ -1,4 +1,6 @@
-# Hola! Soy Gulliano Jaimes 👋
+<div align='center'>
+  <h1 align='center'> Hola! Soy Gulliano Jaimes 👋 </h1>
+</div>
 
 <h3>¿Quien Soy?</h3>
 
