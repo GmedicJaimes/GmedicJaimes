@@ -1,14 +1,14 @@
 <div align='center'>
-  <h1 align='center'> Hola! Soy <span color='#1684EB'> Gulliano Jaimes </span> 👋 </h1>
+  <h1 align='center'> Hi! I'm<span color='#1684EB'> Gulliano Jaimes </span> 👋 </h1>
 </div>
 
-<h3>¿Quien Soy?</h3>
+<h3>About Me</h3>
 
-Soy un entusiasta Fullstack Developer con una pasión por la tecnología y el desarrollo de software. Estoy actualmente enfocado en adquirir habilidades y conocimientos tanto en el desarrollo front-end como en el back-end, con el objetivo de crear aplicaciones web eficientes y atractivas.✔️
+I am an enthusiastic Fullstack Developer with a passion for technology and software development. I am currently focused on acquiring skills and knowledge in both front-end and back-end development, with the aim of creating efficient and attractive web applications. ✔️
 
-Aunque aún no tengo experiencia profesional en el rubro, mi juventud y entusiasmo me permiten mantenerme al tanto de las últimas tendencias y tecnologías en el campo del desarrollo web. Además, mi formación académica en Fullstack Development me ha proporcionado una base sólida para abordar proyectos y aprender de manera rápida y efectiva.🚀
+Although I still have no professional experience in the field, my youth and enthusiasm allow me to keep abreast of the latest trends and technologies in the field of web development. In addition, my academic background in Fullstack Development has provided me with a solid foundation to tackle projects and learn quickly and effectively. 🚀
 
-Mi objetivo es obtener una posición como Fullstack Developer en una empresa innovadora que me permita aplicar mis habilidades técnicas, aprender de profesionales experimentados y contribuir al desarrollo de proyectos significativos. Estoy emocionado de formar parte de un equipo colaborativo donde pueda seguir desarrollándome y creciendo como profesional.📌
+My goal is to obtain a position as a Fullstack Developer in an innovative company that allows me to apply my technical skills, learn from experienced professionals and contribute to the development of meaningful projects. I am excited to be part of a collaborative team where I can continue to develop and grow as a professional. 📌
 
 <h3>Tecnologias que uso: </h3> 
 
