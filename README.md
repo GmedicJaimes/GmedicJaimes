@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://i.ibb.co/1zy7QNW/Presentaci-n1.png" alt="Presentaci-n1" border="0" align='center'>
+  <img src="https://i.ibb.co/fD6qFWw/Presentaci-n1.png" alt="Presentaci-n1" border="0" align='center'>
 </div>
 <h3 align="center">A passionate Fullstack | Frontend developer from Colombia</h3>
 
