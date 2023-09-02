@@ -11,7 +11,7 @@ My goal is to obtain a position as a Fullstack Developer in an innovative compan
 
 - 💬 Ask me about **Html, Css, JavaScript, ReactJs and Others**
 
-- 📫 How to reach me **akiloty3@gmail.com**
+- 📫 How to reach me **gullianomjaimes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
