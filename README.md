@@ -1,7 +1,7 @@
 <div align='center'>
   <img src="https://i.ibb.co/fD6qFWw/Presentaci-n1.png" alt="Presentaci-n1" border="0" align='center'>
 </div>
-<h3 align="center">A passionate Fullstack | Frontend developer from Colombia</h3>
+<h3 align="center">A passionate developer from Colombia</h3>
 
 I am an enthusiastic Fullstack developer with a passion for technology and software development. I am currently focused on acquiring skills and knowledge in both front-end and back-end development, focusing more on front-end development with the aim of creating efficient and attractive web applications.s. ✔️
 
