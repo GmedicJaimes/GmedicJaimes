@@ -1,7 +1,7 @@
 <div align='center'>
-  <h1 align='center'> Hi!👋, I'm Gulliano Jaimes </h1>
+  <img src="https://media.licdn.com/dms/image/D4E16AQGc07p3xyLyUg/profile-displaybackgroundimage-shrink_350_1400/0/1693696213052?e=1698883200&v=beta&t=8K823XTyn3gy5VEF9f8lwOM5DoQugOzxSm0a9ANfP4Y" align='center'>
 </div>
-<h3 align="center">A passionate Fullstack developer from Colombia</h3>
+<h3 align="center">A passionate Fullstack | Frontend developer from Colombia</h3>
 
 I am an enthusiastic Fullstack Developer with a passion for technology and software development. I am currently focused on acquiring skills and knowledge in both front-end and back-end development, with the aim of creating efficient and attractive web applications. ✔️
 
