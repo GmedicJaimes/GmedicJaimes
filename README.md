@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://i.ibb.co/fD6qFWw/Presentaci-n1.png" alt="Presentaci-n1" border="0" align='center'>
+  <img src="https://i.ibb.co/fD6qFWw/Presentaci-n1.png" alt="Presentaci-n1" border="0" align='center' width='100%'>
 </div>
 <h3 align="center">A passionate developer from Colombia</h3>
 
