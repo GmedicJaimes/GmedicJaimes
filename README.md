@@ -23,8 +23,8 @@ My goal is to obtain a position as a Fullstack Developer in an innovative compan
 
 <p align='center' display="flex">
 <a href='https://github.com/GmedicJaimes'>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GmedicJaimes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GmedicJaimes&layout=compact&langs_count=8&theme=algolia"/>
+  <img widht="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GmedicJaimes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img widht="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GmedicJaimes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
